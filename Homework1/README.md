@@ -3,11 +3,6 @@
 
 ### 🖥️ **Topics Covered:** `printf`, `scanf`, and `if statements`
 
-- **📅 Due Date:** 12/03/2023  23:59  
-- **📁 Submission Format:**  
-  - A student with number **20180000001** should submit a zip file named **20180000001.zip**.
-  - The zip file must include the C program file and **screenshots of the valid outputs**.
-
 ---
 
 ## 📌 **Homework Description**  
@@ -118,10 +113,6 @@ Result:
 - Submit a **zip file** containing:
   - The **C program file**.
   - A **PDF file** with screenshots of valid outputs.
-
-✅ **Questions?**  
-📧 Email: [zbilici@gtu.edu.tr](mailto:zbilici@gtu.edu.tr)  
-💬 Ask in the **MS Teams homework channel**.
 
 ---
 
