@@ -3,11 +3,6 @@
 
 ### 🖥️ **Topics Covered:** Dynamic Arrays, Structs, Snake Game Implementation
 
-- **📅 Due Date:** 05/06/2023  
-- **📁 Submission Format:**  
-  - A student with number **20220000001** should submit a zip file named **20220000001.zip**.
-  - The zip file must include the C program file, **a YouTube video link**, and **screenshots of the valid outputs**.
-
 ---
 
 ## 📌 **Homework Description**  
@@ -133,10 +128,6 @@ The game takes place on a **10 × 10 × m 3D board**, where the snake moves and 
   - The **C program file**.
   - **A text file with the YouTube demo link**.
   - A **PDF file** with screenshots of valid outputs.
-
-✅ **Questions?**  
-📧 Email: [b.koca@gtu.edu.tr](mailto:b.koca@gtu.edu.tr)  
-💬 Ask in the **MS Teams homework channel**.
 
 ---
 
