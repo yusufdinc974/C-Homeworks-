@@ -86,15 +86,6 @@ This repository contains **twelve homework assignments** that focus on **functio
 
 ---
 
-## 📌 **Submission Guidelines**
-- Each homework must be submitted as a **zip file** (`20180000001.zip`).
-- The zip file must contain:
-  ✅ **C source code**  
-  ✅ **Screenshots of valid outputs**  
-  ✅ **Makefile** (-50 points if missing)  
-
----
-
 ## 📌 **General Rules**
 ✅ **No arrays allowed unless specified.**  
 ✅ **Use `if-else`, `switch-case`, and dynamic memory correctly.**  
