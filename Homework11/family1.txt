@@ -1,0 +1,6 @@
+james,65,Harry,Luna
+lilly,64,Harry,Luna
+Harry,24,Albus,Severus
+Ginny,24,Albus,Severus
+Albus,5,NULL
+Severus,8,NULL
