@@ -3,11 +3,6 @@
 
 ### 🖥️ **Topics Covered:** Structs, File Handling, Recursion, 8-Puzzle Game
 
-- **📅 Due Date:** 24/05/2023  
-- **📁 Submission Format:**  
-  - A student with number **20180000001** should submit a zip file named **20180000001.zip**.
-  - The zip file must include the C program file and **screenshots of the valid outputs**.
-
 ---
 
 ## 📌 **Homework Description**  
@@ -84,10 +79,6 @@ When the program starts, a **menu** is displayed with **four options**:
 - Submit a **zip file** containing:
   - The **C program file**.
   - A **PDF file** with screenshots of valid outputs.
-
-✅ **Questions?**  
-📧 Email: [barisozcan@gtu.edu.tr](mailto:barisozcan@gtu.edu.tr)  
-💬 Ask in the **MS Teams homework channel**.
 
 ---
 
