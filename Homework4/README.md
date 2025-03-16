@@ -3,11 +3,6 @@
 
 ### 🖥️ **Topics Covered:** Functions, Selection, Loops, File Handling
 
-- **📅 Due Date:** 12/04/2023  23:59  
-- **📁 Submission Format:**  
-  - A student with number **20180000001** should submit a zip file named **20180000001.zip**.
-  - The zip file must include the C program file and **screenshots of the valid outputs**.
-
 ---
 
 ## 📌 **Part 1: Restaurant Ordering System [60 pts]**
@@ -101,9 +96,6 @@ Do you want to play again? (Y/N): N
   - The **C program file**.
   - A **PDF file** with screenshots of valid outputs.
 
-✅ **Questions?**  
-📧 Email: [zbilici@gtu.edu.tr](mailto:zbilici@gtu.edu.tr)  
-💬 Ask in the **MS Teams homework channel**.
 
 ---
 
