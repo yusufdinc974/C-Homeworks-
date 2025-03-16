@@ -3,11 +3,6 @@
 
 ### 🖥️ **Topics Covered:** Functions, Selection, and Loops
 
-- **📅 Due Date:** 05/04/2023  
-- **📁 Submission Format:**  
-  - A student with number **20180000001** should submit a zip file named **20180000001.zip**.
-  - The zip file must include the C program file and **screenshots of the valid outputs**.
-
 ---
 
 ## 📌 **Homework Description**  
@@ -97,10 +92,6 @@ This homework provides hands-on experience with:
 - Submit a **zip file** containing:
   - The **C program file**.
   - A **PDF file** with screenshots of valid outputs.
-
-✅ **Questions?**  
-📧 Email: [b.koca@gtu.edu.tr](mailto:b.koca@gtu.edu.tr)  
-💬 Ask in the **MS Teams homework channel**.
 
 ---
 
